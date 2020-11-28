@@ -1,0 +1,1 @@
+This is a project to copy the presentation of Google's homepage. The intent is to use HTML and CSS to get it to look the same. It will obviously not function the same as google and the buttons won't go anywhere. It is an exercise in moving elements and styling them. 
